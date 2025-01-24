@@ -1,10 +1,13 @@
-NAME : SYAFIQAH NADHIRAH BINTI SHAWAL
-STUDENT ID : 2023435818
-GROUP : T5CDCS2703B1
-LECTURER : SIR MUHAMMAD ATHIF BIN RAMLAN
+# NAME : SYAFIQAH NADHIRAH BINTI SHAWAL
+
+# STUDENT ID : 2023435818
+
+# GROUP : T5CDCS2703B1
+
+# LECTURER : SIR MUHAMMAD ATHIF BIN RAMLAN
 
 
-PROJECT BACKGROUND : 
+# PROJECT BACKGROUND : 
 
 AngularFire is the official library that bridges Angular applications and Firebase services, allowing developers to easily integrate Firebase into their Angular projects. It is maintained by the Angular community and Firebase team and provides seamless access to Firebase's backend services with tools and APIs optimized for Angular development.
 
@@ -14,7 +17,7 @@ AngularFire is the official library that bridges Angular applications and Fireba
 4. Publish the web application by deploy the web app on Firebase App Hosting.
 
 
-DISCUSSION :
+# DISCUSSION :
 
 The objective of this lab was to integrate AngularFire with a web application in order to apply real-time database functionality. Other than that, in this lab, I learn how to use AngularFire in order to create web applications by implementing and deploying a chat client using Firebase products and services but there are various challenges which I face while doing this project.
 
